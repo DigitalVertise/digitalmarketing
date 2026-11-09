@@ -1,0 +1,6 @@
+[
+ {"Slug": "digital-marketing-services", "Template": "services", "Publish": true, "H1": "Digital Marketing Services", "SEO Title": "Digital Marketing Services"},
+ {"Slug": "seo-company", "Parent Slug": "digital-marketing-services", "Template": "services", "Publish": true, "H1": "SEO Company", "SEO Title": "SEO Company"},
+ {"Slug": "web-design", "Parent Slug": "digital-marketing-services", "Template": "services", "Publish": true, "H1": "Web Design", "SEO Title": "Web Design"},
+ {"Slug": "draft-page", "Parent Slug": "digital-marketing-services", "Template": "services", "Publish": false, "H1": "Draft", "SEO Title": "Draft"}
+]
