@@ -1,1 +1,31 @@
-{"source":"Duda preview","page_count":0,"pages":[],"note":"Rendered page content and image URL references; not the original Duda source export."}
+{
+  "source": "Duda public preview",
+  "preview": "https://preview.duda.co/site/c2abb98d/",
+  "mapped_url_count": 499,
+  "captured_page_count": 1,
+  "note": "The preview map exposed 499 page URL entries. The homepage content and image references below were extracted successfully. Additional page extracts were intermittent; this archive does not claim all 499 pages have been captured. Airtable's four website content tables are preserved separately under /data.",
+  "pages": [
+    {
+      "url": "https://preview.duda.co/site/c2abb98d/",
+      "title": "Digital Marketing Agency | Top Online Marketing AI-Powered Solutions | Digital Vertise",
+      "h1": "Digital Marketing Agency Delivering Measurable Results",
+      "intro": "Digital Vertise is a full-service Digital Marketing & AI Automation Agency specializing in web design, SEO, PPC, social media and content marketing. The preview describes service coverage for SMEs and corporates in Dubai, London, Los Angeles and across the Middle East, Europe and America, including legal, corporate, real estate, medical, government, automotive and finance sectors.",
+      "sections": [
+        "Search Engine Optimization SEO",
+        "Website Design and Ecommerce",
+        "Pay Per Click and Lead Generation",
+        "Social Media Management",
+        "Digital Marketing Services",
+        "Why Choose Digital Vertise",
+        "Digital Marketing Agency FAQs"
+      ],
+      "images": [
+        "https://irp.cdn-website.com/c2abb98d/dms3rep/multi/opt/DIgital+Vertise+Digital+Marketing+AI+Agency+5-1920w.png",
+        "https://irp.cdn-website.com/c2abb98d/dms3rep/multi/Digital-Vertise-Digital-Marketing-Agency-82cc8339.svg",
+        "https://irp.cdn-website.com/c2abb98d/dms3rep/multi/opt/DigitalMarketingVideoF-0b64a6b0-88b2e9ff-640w.png",
+        "https://irp.cdn-website.com/c2abb98d/dms3rep/multi/opt/DigitalMarketingVideoF-0b64a6b0-88b2e9ff-9c15f3ae-640w.png",
+        "https://irp.cdn-website.com/c2abb98d/dms3rep/multi/Digital-Vertise-Digital-Marketing-Agency.svg"
+      ]
+    }
+  ]
+}
